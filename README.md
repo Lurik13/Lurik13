@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Les Stats GitHub de Lurik13](https://github-readme-stats.vercel.app/api?username=Lurik13&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+### Hello there 👋
+[![Les Stats GitHub de Lurik13](https://github-readme-stats.vercel.app/api?username=Lurik13&show_icons=true&theme=shadow_red&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
