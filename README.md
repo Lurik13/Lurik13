@@ -1,6 +1,6 @@
 ### Hello there 👋
 [![Les Stats GitHub de Lurik13](https://github-readme-stats.vercel.app/api?username=Lurik13&show_icons=true&theme=shadow_red&hide=issues,contribs&text_color=9A0000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red&text_color=9A0000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lurik13/Lurik13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
