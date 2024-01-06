@@ -1,7 +1,7 @@
 ### Statistics :
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lurik13&show_icons=true&theme=shadow_red&hide=issues,contribs&text_color=9A0000" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red&text_color=9A0000" />
 </a>
