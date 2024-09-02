@@ -1,4 +1,6 @@
-# Hello there !
+![](scouttrooper.jpg)
+
+<h1 align="center">Hello there, I'm Lucas Ribette ⚔️</h1>
 
 **Student at 42 Le Havre, I'm passionate about IT, and more specifically, all things web and application related. I love to create elegant and feature-rich projects.**
 
