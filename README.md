@@ -18,14 +18,8 @@ Student at 42 Le Havre, I'm passionate about IT, and more specifically, all thin
 <br>
 
 <h2 align="center">📈 Stats</h2>
+
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Lurik13&theme=shadow-red&border_radius=10&card_width=300" alt="GitHub Streak" />
-  </a>
-</p>
-<!-- <br> -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red&text_color=9A0000" />
-  </a>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Lurik13&theme=shadow-red&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=334&card_height=175" />
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurik13&theme=shadow_red&layout=compact" />&nbsp;&nbsp;
 </p>
