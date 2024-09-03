@@ -1,4 +1,4 @@
-![](scouttrooper.jpg)
+![](scout-trooper.jpg)
 
 <h1 align="center">Hello there, I'm Lucas Ribette ⚔️</h1>
 
