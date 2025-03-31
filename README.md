@@ -4,7 +4,7 @@
 
 Student at 42 Le Havre, I'm passionate about IT, and more specifically, all things web and application related. I love to create elegant and feature-rich projects.
 
-**`I'm currently looking for a 6-month internship in Le Havre.`**
+**`I'm currently looking for an internship in Genève.`**
 
 <br>
 
