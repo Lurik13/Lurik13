@@ -11,7 +11,7 @@ Student at 42 Le Havre, I'm passionate about IT, and more specifically, all thin
 <h2 align="center">🔧 Languages && Tools ⚙️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,django,py,html,php,docker,css,ps" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,ts,tailwind,cpp,c,django,py,docker,ps" />
   </a>
 </p>
 
